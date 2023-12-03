@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-    <h1 align="center">✩ Roble Mohamed Adam ✩</h1>
+    <h1 align="center">✩ Roble Mohamed  ✩</h1>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omar-Tood&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true" alt="Omar-Tood" /></a> </p>

@@ -12,17 +12,17 @@
 
 
 
-- 🔭 I’m currently working on [YouTube Tutorials](https://www.youtube.com/@Omar-JibrilDev/videos)
+- 🔭 I’m currently working on [student]
 
 - 🌱 I’m currently learning *Node & express, reactjs and flutter*
 
-- 👯 I’m collaborating on *Markdown Master*
+- 👯 I’m collaborating on *devlopers*
 
-- 👨‍💻 All of my projects are open source and available at [github.com/Omar-Tood](https://github.com/Omar-Tood)
+- 👨‍💻 All of my projects are open source and available at [github.com/roblemohamed](https://github.com/roble-mohamed)
 
 - 💬 Ask me about *JS, JAVA, C#*
 
-- 📫 How to reach me **omarjibrilabdulkhadir@gmail.com**
+- 📫 How to reach me **roblemohamed2024@gmail.com**
 
 - ⚡ Fun fact *talk is cheap show me the Code!*
 
